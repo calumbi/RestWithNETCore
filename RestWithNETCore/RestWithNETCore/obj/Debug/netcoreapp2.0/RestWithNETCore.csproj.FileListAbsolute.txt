@@ -1,0 +1,11 @@
+C:\ProjetoRESTWithNETCore\RestWithNETCore\RestWithNETCore\RestWithNETCore\bin\Debug\netcoreapp2.0\RestWithNETCore.deps.json
+C:\ProjetoRESTWithNETCore\RestWithNETCore\RestWithNETCore\RestWithNETCore\bin\Debug\netcoreapp2.0\RestWithNETCore.runtimeconfig.json
+C:\ProjetoRESTWithNETCore\RestWithNETCore\RestWithNETCore\RestWithNETCore\bin\Debug\netcoreapp2.0\RestWithNETCore.runtimeconfig.dev.json
+C:\ProjetoRESTWithNETCore\RestWithNETCore\RestWithNETCore\RestWithNETCore\bin\Debug\netcoreapp2.0\RestWithNETCore.dll
+C:\ProjetoRESTWithNETCore\RestWithNETCore\RestWithNETCore\RestWithNETCore\bin\Debug\netcoreapp2.0\RestWithNETCore.pdb
+C:\ProjetoRESTWithNETCore\RestWithNETCore\RestWithNETCore\RestWithNETCore\obj\Debug\netcoreapp2.0\RestWithNETCore.csprojResolveAssemblyReference.cache
+C:\ProjetoRESTWithNETCore\RestWithNETCore\RestWithNETCore\RestWithNETCore\obj\Debug\netcoreapp2.0\RestWithNETCore.csproj.CoreCompileInputs.cache
+C:\ProjetoRESTWithNETCore\RestWithNETCore\RestWithNETCore\RestWithNETCore\obj\Debug\netcoreapp2.0\RestWithNETCore.AssemblyInfoInputs.cache
+C:\ProjetoRESTWithNETCore\RestWithNETCore\RestWithNETCore\RestWithNETCore\obj\Debug\netcoreapp2.0\RestWithNETCore.AssemblyInfo.cs
+C:\ProjetoRESTWithNETCore\RestWithNETCore\RestWithNETCore\RestWithNETCore\obj\Debug\netcoreapp2.0\RestWithNETCore.dll
+C:\ProjetoRESTWithNETCore\RestWithNETCore\RestWithNETCore\RestWithNETCore\obj\Debug\netcoreapp2.0\RestWithNETCore.pdb
